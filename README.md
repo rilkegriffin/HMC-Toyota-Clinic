@@ -1,3 +1,4 @@
 # HMC Toyota Clinic 
 #repository for our clinic project
-blah
+
+<h1>Hello world</h1>
